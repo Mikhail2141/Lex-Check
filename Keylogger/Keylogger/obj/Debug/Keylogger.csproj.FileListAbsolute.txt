@@ -1,0 +1,10 @@
+J:\admin\Keylogger\Keylogger\bin\Debug\Keylogger.exe.config
+J:\admin\Keylogger\Keylogger\bin\Debug\Keylogger.exe
+J:\admin\Keylogger\Keylogger\bin\Debug\Keylogger.pdb
+J:\admin\Keylogger\Keylogger\obj\Debug\Keylogger.csproj.AssemblyReference.cache
+J:\admin\Keylogger\Keylogger\obj\Debug\Keylogger.Form1.resources
+J:\admin\Keylogger\Keylogger\obj\Debug\Keylogger.Properties.Resources.resources
+J:\admin\Keylogger\Keylogger\obj\Debug\Keylogger.csproj.GenerateResource.cache
+J:\admin\Keylogger\Keylogger\obj\Debug\Keylogger.csproj.CoreCompileInputs.cache
+J:\admin\Keylogger\Keylogger\obj\Debug\Keylogger.exe
+J:\admin\Keylogger\Keylogger\obj\Debug\Keylogger.pdb
